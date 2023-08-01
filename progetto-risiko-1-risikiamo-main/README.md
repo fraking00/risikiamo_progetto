@@ -4,7 +4,6 @@
 
 - Anno 2022/23
 - Corso : Ingegneria Del Software (Dipartimento di Informatica U14)
-- Docenti Prof. Riganelli e Prof. Archelli
 
 ## Membri
 
